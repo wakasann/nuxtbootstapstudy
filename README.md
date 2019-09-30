@@ -20,3 +20,10 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
+參考 [webogram](https://github.com/zhukov/webogram)，想做个类似的
+
+#####
+1. [Nuxt配置sass或者less](https://www.jianshu.com/p/7a1d11c7d895)
+2. [Inline JavaScript is not enabled. Is it set in your options?](https://blog.csdn.net/qiuyan_f/article/details/84583600)
